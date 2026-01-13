@@ -1,7 +1,7 @@
 ## 👋 Hello there
 
 ### Third-year programming student. Experienced in creating Minecraft plugins, bots for Telegram/Discord, and APIs. Developed games on Unity and was a finalist in a game development competition.
-<div id="animeC">
+<div id="imageCard">
   <img src="https://i.postimg.cc/wTMrTqqq/photo-2025-11-24-08-48-00-(2).jpg" width="100%"/>
 </div>
 
@@ -15,9 +15,9 @@
 
 
 ## 🧿 I want to learn
+[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white&style=for-the-badge)](#)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge)](#)
 [![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white&style=for-the-badge)](#)
-[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white&style=for-the-badge)](#)
 
 ## ⚒️ I use
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white&style=for-the-badge)](#)
