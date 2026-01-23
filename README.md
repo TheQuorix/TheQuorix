@@ -1,4 +1,4 @@
-## 👋 Hello there
+## 👋 Hi there
 
 ### Third-year programming student. Experienced in creating Minecraft plugins, bots for Telegram/Discord, and APIs. Developed games on Unity and was a finalist in a game development competition.
 <div id="imageCard">
